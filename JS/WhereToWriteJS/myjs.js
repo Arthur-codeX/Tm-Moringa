@@ -1,0 +1,1 @@
+console.log("Hello World");console.log("I wrote JS");console.log("Hello World");console.log("I wrote JS");console.log("Hello World");console.log("I wrote JS");let k=23;const m=40;var z=23;
